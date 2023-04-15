@@ -1,1 +1,1 @@
-# shop2
+Primjer react aplikacije
