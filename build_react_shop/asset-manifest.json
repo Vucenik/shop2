@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9efa593.css",
+    "main.js": "/static/js/main.1fae71d4.js",
+    "static/js/787.d1b6118b.chunk.js": "/static/js/787.d1b6118b.chunk.js",
+    "static/media/pozadina-igracke1.jpg": "/static/media/pozadina-igracke1.f4f0e6f90a49fab05b24.jpg",
+    "static/media/shopping-cart.png": "/static/media/shopping-cart.78215909b21f0b186a7f.png",
+    "static/media/search.png": "/static/media/search.c905e98ff0993e0b28fd.png",
+    "index.html": "/index.html",
+    "main.a9efa593.css.map": "/static/css/main.a9efa593.css.map",
+    "main.1fae71d4.js.map": "/static/js/main.1fae71d4.js.map",
+    "787.d1b6118b.chunk.js.map": "/static/js/787.d1b6118b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9efa593.css",
+    "static/js/main.1fae71d4.js"
+  ]
+}
