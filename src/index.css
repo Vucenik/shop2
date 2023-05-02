@@ -26,14 +26,19 @@ body,button,input,table,textarea,select{
 
 }
 :root{
---background-body: hsl(0, 0%, 95%); 
---background-main:hsl(0, 0%, 100%);
---max-width:64em;
---h2-color:hsl(208, 60%, 45%);
---span-color:hsl(16, 100%, 50%);
---background-aside:hsl(55, 81%, 94%);
---background-hover:hsl(210, 100%, 39%);
---font-aside:hsl(348, 71%, 37%);
+  --background-body: hsl(0, 0%, 95%); 
+  --background-main:hsl(0, 0%, 100%);
+  --max-width:64em;
+ /* --h2-color:hsl(208, 60%, 45%);*/
+  --h2-color:hsl(208, 60%, 35%);
+ 
+  --span-color:hsl(16, 100%, 50%);
+  --background-aside:hsl(55, 81%, 96%);
+
+
+  --background-hover:hsl(210, 100%, 39%);
+ /* --font-aside:hsl(348, 71%, 37%);*/
+  --font-aside:hsl(348, 71%, 30%);
 }
 body,html{
 
@@ -262,6 +267,7 @@ overflow: hidden
   background-repeat: no-repeat;
   background-size: 3em;
   border:none;
+
 }
 .flip:hover {
   transform:translateX(-100%) rotateY(-180deg);

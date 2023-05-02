@@ -61,9 +61,9 @@ const update_kosarica = kosarica=>{
           <nav>
          
             <ul>
-                <li><a href="#">Kontakt</a></li>
-                <li><a href="#">Newsletter</a></li>
-                <li><a href="#">Pretlati se</a></li>
+            <li><a href="http://shop.vlatko.info/">VanilaJs Shop</a></li>
+                <li><a href="http://phpshop.vlatko.live/">PHP Shop</a></li>
+                <li><a href="mailto:vlatko.vucenik@gmail.com">Kontakt</a></li>
             </ul>
           </nav>
         </aside>
